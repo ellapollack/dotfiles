@@ -1,0 +1,2 @@
+python3 .vim/pack/plugins/start/YouCompleteMe/install.py --all
+.fzf/install

@@ -16,3 +16,9 @@
 [submodule ".vim/pack/plugins/start/diffchar.vim"]
 	path = .vim/pack/plugins/start/diffchar.vim
 	url = https://github.com/rickhowe/diffchar.vim.git
+[submodule "/Users/max/.fzf"]
+	path = /Users/max/.fzf
+	url = https://github.com/junegunn/fzf.git
+[submodule ".vim/pack/plugins/start/fzf.vim"]
+	path = .vim/pack/plugins/start/fzf.vim
+	url = https://github.com/junegunn/fzf.vim.git

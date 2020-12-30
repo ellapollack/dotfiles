@@ -31,4 +31,4 @@ set laststatus=2
 set relativenumber
 set undofile
 
-" don't forget to install YouCompleteMe by running `python3 install.py --all`
+set rtp+=~/.fzf
